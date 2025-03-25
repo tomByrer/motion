@@ -1,7 +1,6 @@
 # Oku Motion
 
-**Unleash the Power of Animation in Your Vue Apps!**
-**A tiny, performant animation library for VueJS. Powered by [Motion](https://motion.dev/).**
+**[Motion now directly supports Vue](https://motion.dev/docs/vue),** so this project is redundant.
 
 <p>
   <a href="https://www.npmjs.com/package/@oku-ui/motion"><img src="https://img.shields.io/npm/v/@oku-ui/motion.svg?style=flat&colorA=18181B&colorB=28CF8D" alt="Version"></a>
